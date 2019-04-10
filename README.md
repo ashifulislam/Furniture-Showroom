@@ -4,24 +4,26 @@ Glamour Furniture is a most popular e-commerce website where people can easily f
 can be provided discount on products to the customer only if conditions are met.
 
 ## Scenario 1:
-Amir khan wants to buy a luxury bed through online.
+
+  Amir khan wants to buy a luxury bed through online.
   i) Amir is not a registered customer. That’s why he registered to the website and
- then logs into it.
+  then logs into it.
  ii) He enters luxury bed into the search box and clicks enter.
  iii) The website presents a couple of results of luxury bed. From the result Amir gets
  his desire bed which is looking for.
  iv) Amir select the luxury bed.
- v) The website shows him the bed’s details and its availability.
+ v)  The website shows him the bed’s details and its availability.
  vi) Amir choose this bed and add to cart for buy it.
  vii) The system asks him to give deliver information.
  viii) Amir gives necessary information to the system.
  ix) The system asks him to pay for buy it.
- x) Amir choose online payment approach which is through his credit card.
+ x)  Amir choose online payment approach which is through his credit card.
  xi) The system gets the payment and gives confirmation message through email.
  xii) Finally, Amir gets his deliberated luxury bed.
 
 ## Scenario 2:
 The desired bed is not available.
+
  i) Same as 1.
  ii) The website shows him the bed’s details and its availability.
  iii) If the bed is not available then Amir can not get it right now.
@@ -33,6 +35,7 @@ The desired bed is not available.
 ## Scenario 3:
  Anushka Sharma wants to make her desired product according to her own requirements
  that is not available in the website store.
+ 
  i) Same as 1 and 2.
  ii) After search, the website shows the bed’s details and its availability.
  iii) If the bed is not available then she can not get it right now.
@@ -45,6 +48,7 @@ The desired bed is not available.
 
 ## Scenario 4:
  Anushka Sharma faces a problem on her dressing table
+ 
  i) Same as 1.
  ii) She brought dressing table and got one year’s warranty from the system.
  iii) Before deadline she faced problem on her furniture that is the mirror of her dressing
@@ -58,6 +62,7 @@ The desired bed is not available.
 
 ## Scenario 5:
  Anushka Sharma wants to get discounts.
+ 
  i) To get discount Anushka must be a registered customer.
  ii) If she pays through credit card, she will get 10% discount on every single product.
  iii) Anushka need to buy at least Ten Thousand Taka’s product if she wants to 20%
